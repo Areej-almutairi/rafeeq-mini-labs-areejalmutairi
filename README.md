@@ -56,4 +56,4 @@ flowgraph TD
 ---
 ---
 
-*Prepared by **أريج المطيري** for the Advanced Agentic AI Systems Engineering Program in collaboration with [SDAIA Academy](https://github.com/SDAIAAcademy).*
+*Prepared by **Areej Almutairi** for the Advanced Agentic AI Systems Engineering Program in collaboration with [SDAIA Academy](https://github.com/SDAIAAcademy).*
