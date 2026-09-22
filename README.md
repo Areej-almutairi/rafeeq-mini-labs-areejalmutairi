@@ -54,5 +54,6 @@ flowgraph TD
 3. View generated assessment artifacts under the `reports/` directory.
 
 ---
+---
 
-*Developed for the Advanced Agentic AI Systems Engineering Program in collaboration with [SDAIA Academy](https://github.com/SDAIAAcademy).*
+*Prepared by **أريج المطيري** for the Advanced Agentic AI Systems Engineering Program in collaboration with [SDAIA Academy](https://github.com/SDAIAAcademy).*
