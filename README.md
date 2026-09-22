@@ -1,17 +1,17 @@
-# Rafeeq Mini Labs · لابات رفيق المصغّر 🤖📦
+# Rafeeq Mini Labs · لابات رفيق المصغّر 
 
 > **Advanced Agentic AI Systems Engineering**  
 > A safe, auditable, and bilingual agentic operations system for delivery management.
 
 ---
 
-## 📌 About The Project / نبذة عن المشروع
+##  About The Project / نبذة عن المشروع
 
 **Rafeeq Mini** is a bilingual (Arabic/English) AI agentic operational assistant designed for a delivery company scenario. The system processes customer requests, verifies identity, retrieves context-aware policies, routes tasks to specialized agents, and executes operations safely with deterministic guardrails and required human approval for high-value actions (e.g., refunds exceeding SAR 500).
 
 ---
 
-## 🏗️ System Architecture & Agentic Flow / المخطط الهيكلي
+##  System Architecture & Agentic Flow / المخطط الهيكلي
 
 ```mermaid
 flowgraph TD
@@ -37,7 +37,7 @@ flowgraph TD
 
 ---
 
-## 🛡️ Key Safety & Security Features / معايير الأمان
+##  Key Safety & Security Features / معايير الأمان
 
 * **Bilingual Execution:** Native handling of Arabic and English operational prompts.
 * **Deterministic Guardrails:** Input validation and prompt injection attack mitigation.
@@ -47,7 +47,7 @@ flowgraph TD
 
 ---
 
-## ⚙️ How to Run / طريقة التشغيل
+##  How to Run / طريقة التشغيل
 
 1. Open the complete notebook in Google Colab: `notebooks/Rafeeq_Mini_Capstone.ipynb`.
 2. Execute all cells sequentially from environment check (`C0`) to export (`C29`).
