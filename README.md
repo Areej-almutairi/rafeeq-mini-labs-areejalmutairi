@@ -9,7 +9,7 @@
 
 **Rafeeq Mini** is a bilingual (Arabic/English) AI agentic operational assistant designed for a delivery company scenario. The system processes customer requests, verifies identity, retrieves context-aware policies, routes tasks to specialized agents, and executes operations safely with deterministic guardrails and required human approval for high-value actions (e.g., refunds exceeding SAR 500).
 
-رفيق المصغّر** هو مساعد تشغيلي ذكي ووكيل (Agentic AI) ثنائي اللغة (عربي/إنجليزي) مصمم لسيناريوهات شركات التوصيل. يقوم النظام بمعالجة طلبات العملاء، التحقق من الهوية، استرجاع السياسات المدركة للسياق، وتوجيه المهام إلى وكلاء متخصصين، مع تنفيذ العمليات بأمان تام تحت رقابة حراسة حتمية وموافقات بشرية للعمليات ذات القيمة العالية (مثل الاسترجاع أكثر من 500 ريال).
+رفيق المصغّر تشغيلي ذكي ووكيل (Agentic AI) ثنائي اللغة (عربي/إنجليزي) مصمم لسيناريوهات شركات التوصيل. يقوم النظام بمعالجة طلبات العملاء، التحقق من الهوية، استرجاع السياسات المدركة للسياق، وتوجيه المهام إلى وكلاء متخصصين، مع تنفيذ العمليات بأمان تام تحت رقابة حراسة حتمية وموافقات بشرية للعمليات ذات القيمة العالية (مثل الاسترجاع أكثر من 500 ريال).
 
 ---
 
